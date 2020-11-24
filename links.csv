@@ -1,0 +1,225 @@
+,link,url,name
+x,AbeytaTrujillo,http://meas.ose.state.nm.us/site.jsp?id=118&status=Y&type=S&dist=6&basin=Lower Chama,AbeytaTrujillo
+,AboveOutfall,http://meas.ose.state.nm.us/site.jsp?id=145&status=Y&type=S&dist=2&basin=Pipeline Discharge,AboveOutfall
+,Agapito,http://meas.ose.state.nm.us/site.jsp?id=252&status=Y&type=S&dist=6&basin=Gallinas,Agapito
+x,Ancheta-Galaz,http://meas.ose.state.nm.us/site.jsp?id=191&status=Y&type=S&dist=3&basin=Mimbres Basin,Ancheta-Galaz
+,AncondeJacona,http://meas.ose.state.nm.us/site.jsp?id=1&status=Y&type=S&dist=6&basin=NPT,AncondeJacona
+x,ArsenioSanchez,http://meas.ose.state.nm.us/site.jsp?id=150&status=Y&type=S&dist=2&basin=Fort Sumner,ArsenioSanchez
+x,AVIDBubbler,http://meas.ose.state.nm.us/site.jsp?id=164&status=Y&type=S&dist=7&basin=Cimarron River,AVIDBubbler
+x,Aztec,http://meas.ose.state.nm.us/site.jsp?id=64&status=Y&type=S&dist=5&basin=Animas River,Aztec
+x,Baca,http://meas.ose.state.nm.us/site.jsp?id=200&status=Y&type=S&dist=3&basin=Mimbres Basin,Baca
+,Barranco,http://meas.ose.state.nm.us/site.jsp?id=2&status=Y&type=S&dist=6&basin=NPT,Barranco
+,BarrancoAlto,http://meas.ose.state.nm.us/site.jsp?id=3&status=Y&type=S&dist=6&basin=NPT,BarrancoAlto
+,BarrancoBlanco,http://meas.ose.state.nm.us/site.jsp?id=146&status=Y&type=S&dist=6&basin=NPT,BarrancoBlanco
+,BarrancoDitch,http://meas.ose.state.nm.us/site.jsp?id=211&status=Y&type=S&dist=6&basin=Upper Chama,BarrancoDitch
+,BauerSpringsDitch,http://meas.ose.state.nm.us/site.jsp?id=222&status=Y&type=S&dist=6&basin=NPT,BauerSpringsDitch
+x,BearCanyonReservoir,http://meas.ose.state.nm.us/site.jsp?id=67&status=Y&type=S&dist=3&basin=Mimbres Basin,BearCanyonReservoir
+x,BlueSpringsRanch,http://meas.ose.state.nm.us/site.jsp?id=162&status=Y&type=S&dist=2&basin=Carlsbad,BlueSpringsRanch
+x,BRCanal,http://meas.ose.state.nm.us/site.jsp?id=161&status=Y&type=S&dist=2&basin=Carlsbad,BRCanal
+x,BRCBypass,http://meas.ose.state.nm.us/site.jsp?id=160&status=Y&type=S&dist=2&basin=Carlsbad,BRCBypass
+x,BRSupply,http://meas.ose.state.nm.us/site.jsp?id=159&status=Y&type=S&dist=2&basin=Carlsbad,BRSupply
+x,CajonGrande,http://meas.ose.state.nm.us/site.jsp?id=4&status=Y&type=S&dist=6&basin=NPT,CajonGrande
+x,Cano,http://meas.ose.state.nm.us/site.jsp?id=5&status=Y&type=S&dist=6&basin=NPT,Cano
+,CanonesCreek#1,http://meas.ose.state.nm.us/site.jsp?id=217&status=Y&type=S&dist=6&basin=Upper Chama,CanonesCreek#1
+x,CecilPollard,http://meas.ose.state.nm.us/site.jsp?id=155&status=Y&type=S&dist=2&basin=Roswell,CecilPollard
+x,Cedar,http://meas.ose.state.nm.us/site.jsp?id=68&status=Y&type=S&dist=5&basin=Animas River,Cedar
+,CerroGordo,http://meas.ose.state.nm.us/site.jsp?id=234&status=Y&type=S&dist=6&basin=Santa Fe River,CerroGordo
+,ChamaTownDitch,http://meas.ose.state.nm.us/site.jsp?id=207&status=Y&type=S&dist=6&basin=Upper Chama,ChamaTownDitch
+,ChamaValley#1,http://meas.ose.state.nm.us/site.jsp?id=225&status=Y&type=S&dist=6&basin=Upper Chama,ChamaValley#1
+,ChamaValley#3,http://meas.ose.state.nm.us/site.jsp?id=216&status=Y&type=S&dist=6&basin=Upper Chama,ChamaValley#3
+,ChamaValleyDitch,http://meas.ose.state.nm.us/site.jsp?id=208&status=Y&type=S&dist=6&basin=Upper Chama,ChamaValleyDitch
+x,Chamita,http://meas.ose.state.nm.us/site.jsp?id=119&status=Y&type=S&dist=6&basin=Lower Chama,Chamita
+x,Chili,http://meas.ose.state.nm.us/site.jsp?id=120&status=Y&type=S&dist=6&basin=Lower Chama,Chili
+x,ChupaderoIrrigationCo.,http://meas.ose.state.nm.us/site.jsp?id=128&status=Y&type=S&dist=6&basin=NPT,ChupaderoIrrigationCo.
+x,CieneguillaCreek,http://meas.ose.state.nm.us/site.jsp?id=187&status=Y&type=S&dist=7&basin=Cimarron River,CieneguillaCreek
+x,Citizens/BID,http://meas.ose.state.nm.us/site.jsp?id=69&status=Y&type=S&dist=5&basin=San Juan River,Citizens/BID
+x,CityofAztec-LowerAnimas,http://meas.ose.state.nm.us/site.jsp?id=248&status=Y&type=S&dist=5&basin=Animas River,CityofAztec-LowerAnimas
+,CityofAztec-RiverPump,http://meas.ose.state.nm.us/site.jsp?id=249&status=Y&type=S&dist=5&basin=Animas River,CityofAztec-RiverPump
+x,CityofFarmington-FarmersIrrigation,http://meas.ose.state.nm.us/site.jsp?id=246&status=Y&type=S&dist=5&basin=Animas River,CityofFarmington-FarmersIrrigation
+,CityofFarmingtonPennyLanePump,http://meas.ose.state.nm.us/site.jsp?id=245&status=Y&type=S&dist=5&basin=Animas River,CityofFarmingtonPennyLanePump
+,CityofLasVegas,http://meas.ose.state.nm.us/site.jsp?id=213&status=Y&type=S&dist=6&basin=NPT,CityofLasVegas
+x,Comunidad,http://meas.ose.state.nm.us/site.jsp?id=6&status=Y&type=S&dist=6&basin=NPT,Comunidad
+x,Concepcion,http://meas.ose.state.nm.us/site.jsp?id=133&status=Y&type=S&dist=6&basin=Gallinas,Concepcion
+x,CSC-CS#1,http://meas.ose.state.nm.us/site.jsp?id=182&status=Y&type=S&dist=7&basin=Cimarron River,CSC-CS#1
+x,CSC-CSHighline,http://meas.ose.state.nm.us/site.jsp?id=180&status=Y&type=S&dist=7&basin=Cimarron River,CSC-CSHighline
+,CSC-CSUUBarUrraca,http://meas.ose.state.nm.us/site.jsp?id=183&status=Y&type=S&dist=7&basin=Cimarron River,CSC-CSUUBarUrraca
+,CSC-TrujilloCSE-Line,http://meas.ose.state.nm.us/site.jsp?id=181&status=Y&type=S&dist=7&basin=Cimarron River,CSC-TrujilloCSE-Line
+x,CSClaytonPlace,http://meas.ose.state.nm.us/site.jsp?id=169&status=Y&type=S&dist=7&basin=Cimarron River,CSClaytonPlace
+x,CSHoney,http://meas.ose.state.nm.us/site.jsp?id=174&status=Y&type=S&dist=7&basin=Cimarron River,CSHoney
+x,Cunningham,http://meas.ose.state.nm.us/site.jsp?id=70&status=Y&type=S&dist=5&basin=La Plata River,Cunningham
+x,CyMore,http://meas.ose.state.nm.us/site.jsp?id=7&status=Y&type=S&dist=6&basin=NPT,CyMore
+,DelLlano,http://meas.ose.state.nm.us/site.jsp?id=235&status=Y&type=S&dist=6&basin=Santa Fe River,DelLlano
+x,DelMolino,http://meas.ose.state.nm.us/site.jsp?id=129&status=Y&type=S&dist=6&basin=NPT,DelMolino
+x,DelRio,http://meas.ose.state.nm.us/site.jsp?id=40&status=Y&type=S&dist=6&basin=NPT,DelRio
+x,DoloresdeLasVegas,http://meas.ose.state.nm.us/site.jsp?id=62&status=Y&type=S&dist=6&basin=Gallinas,DoloresdeLasVegas
+x,Dominguez,http://meas.ose.state.nm.us/site.jsp?id=196&status=Y&type=S&dist=3&basin=Mimbres Basin,Dominguez
+x,Duran,http://meas.ose.state.nm.us/site.jsp?id=195&status=Y&type=S&dist=3&basin=Mimbres Basin,Duran
+x,Eby-Baca,http://meas.ose.state.nm.us/site.jsp?id=199&status=Y&type=S&dist=3&basin=Mimbres Basin,Eby-Baca
+x,Eledge,http://meas.ose.state.nm.us/site.jsp?id=71&status=Y&type=S&dist=5&basin=Animas River,Eledge
+x,Ensenada,http://meas.ose.state.nm.us/site.jsp?id=8&status=Y&type=S&dist=6&basin=Upper Chama,Ensenada
+x,FarmersIrrigation,http://meas.ose.state.nm.us/site.jsp?id=72&status=Y&type=S&dist=5&basin=Animas River,FarmersIrrigation
+x,FarmersMutual,http://meas.ose.state.nm.us/site.jsp?id=73&status=Y&type=S&dist=5&basin=Animas River,FarmersMutual
+x,FarmingtonEcho,http://meas.ose.state.nm.us/site.jsp?id=74&status=Y&type=S&dist=5&basin=Animas River,FarmingtonEcho
+x,FelixDump,http://meas.ose.state.nm.us/site.jsp?id=153&status=Y&type=S&dist=2&basin=Roswell,FelixDump
+x,Ferran,http://meas.ose.state.nm.us/site.jsp?id=221&status=Y&type=S&dist=6&basin=Lower Chama,Ferran
+x,FrankV.Ortiz,http://meas.ose.state.nm.us/site.jsp?id=139&status=Y&type=S&dist=6&basin=NPT,FrankV.Ortiz
+x,FS-14,http://meas.ose.state.nm.us/site.jsp?id=9&status=Y&type=G&dist=2&basin=Pecos River,FS-14
+,FS-14-POD10,http://meas.ose.state.nm.us/site.jsp?id=237&status=Y&type=G&dist=2&basin=Pecos River,FS-14-POD10
+x,FS-14-S,http://meas.ose.state.nm.us/site.jsp?id=10&status=Y&type=G&dist=2&basin=Pecos River,FS-14-S
+x,FS-14-S-2,http://meas.ose.state.nm.us/site.jsp?id=11&status=Y&type=G&dist=2&basin=Pecos River,FS-14-S-2
+x,FS-14-S-4,http://meas.ose.state.nm.us/site.jsp?id=12&status=Y&type=G&dist=2&basin=Pecos River,FS-14-S-4
+x,FS-14-S-5,http://meas.ose.state.nm.us/site.jsp?id=13&status=Y&type=G&dist=2&basin=Pecos River,FS-14-S-5
+x,FS-14-S-6,http://meas.ose.state.nm.us/site.jsp?id=14&status=Y&type=G&dist=2&basin=Pecos River,FS-14-S-6
+x,FS-32,http://meas.ose.state.nm.us/site.jsp?id=15&status=Y&type=G&dist=2&basin=Pecos River,FS-32
+x,FS-32-X,http://meas.ose.state.nm.us/site.jsp?id=16&status=Y&type=G&dist=2&basin=Pecos River,FS-32-X
+x,FS-32-X-2,http://meas.ose.state.nm.us/site.jsp?id=17&status=Y&type=G&dist=2&basin=Pecos River,FS-32-X-2
+x,FS-44-X,http://meas.ose.state.nm.us/site.jsp?id=18&status=Y&type=G&dist=2&basin=Pecos River,FS-44-X
+x,FS-44-X-2,http://meas.ose.state.nm.us/site.jsp?id=19&status=Y&type=G&dist=2&basin=Pecos River,FS-44-X-2
+,FSIDLowerDrain,http://meas.ose.state.nm.us/site.jsp?id=190&status=Y&type=S&dist=2&basin=Fort Sumner,FSIDLowerDrain
+,FSIDMainDrain,http://meas.ose.state.nm.us/site.jsp?id=189&status=Y&type=S&dist=2&basin=Fort Sumner,FSIDMainDrain
+x,GallinasCanal,http://meas.ose.state.nm.us/site.jsp?id=54&status=Y&type=S&dist=6&basin=Gallinas,GallinasCanal
+,GallinasRiverBelowMiddleDiversions,http://meas.ose.state.nm.us/site.jsp?id=214&status=Y&type=S&dist=6&basin=NPT,GallinasRiverBelowMiddleDiversions
+x,GallinasRiverWeiratStorrie,http://meas.ose.state.nm.us/site.jsp?id=59&status=Y&type=S&dist=6&basin=Gallinas,GallinasRiverWeiratStorrie
+,Gardunos,http://meas.ose.state.nm.us/site.jsp?id=21&status=Y&type=S&dist=6&basin=NPT,Gardunos
+x,GilbertGomez,http://meas.ose.state.nm.us/site.jsp?id=154&status=Y&type=S&dist=2&basin=Roswell,GilbertGomez
+x,GoForth,http://meas.ose.state.nm.us/site.jsp?id=202&status=Y&type=S&dist=3&basin=Mimbres Basin,GoForth
+x,Gonzales,http://meas.ose.state.nm.us/site.jsp?id=220&status=Y&type=S&dist=6&basin=Lower Chama,Gonzales
+x,Graves-Atterbury,http://meas.ose.state.nm.us/site.jsp?id=75&status=Y&type=S&dist=5&basin=Animas River,Graves-Atterbury
+x,Greenhorn,http://meas.ose.state.nm.us/site.jsp?id=90&status=Y&type=S&dist=5&basin=La Plata River,Greenhorn
+x,Greenwald,http://meas.ose.state.nm.us/site.jsp?id=197&status=Y&type=S&dist=3&basin=Mimbres Basin,Greenwald
+x,Grijalva,http://meas.ose.state.nm.us/site.jsp?id=99&status=Y&type=S&dist=3&basin=Mimbres Basin,Grijalva
+x,Grzelachowski,http://meas.ose.state.nm.us/site.jsp?id=56&status=Y&type=S&dist=6&basin=Gallinas,Grzelachowski
+,Guicu,http://meas.ose.state.nm.us/site.jsp?id=223&status=Y&type=S&dist=6&basin=La Cienega Creek,Guicu
+x,HagermanMain,http://meas.ose.state.nm.us/site.jsp?id=151&status=Y&type=S&dist=2&basin=Roswell,HagermanMain
+x,Halford-Independent,http://meas.ose.state.nm.us/site.jsp?id=76&status=Y&type=S&dist=5&basin=Animas River,Halford-Independent
+x,Hammond,http://meas.ose.state.nm.us/site.jsp?id=86&status=Y&type=S&dist=5&basin=San Juan River,Hammond
+,HammondHwy550,http://meas.ose.state.nm.us/site.jsp?id=244&status=Y&type=S&dist=5&basin=San Juan River,HammondHwy550
+x,HarperDitch,http://meas.ose.state.nm.us/site.jsp?id=185&status=Y&type=S&dist=7&basin=Santa Clara Spring,HarperDitch
+x,Helton,http://meas.ose.state.nm.us/site.jsp?id=91&status=Y&type=S&dist=5&basin=La Plata River,Helton
+x,Heredia,http://meas.ose.state.nm.us/site.jsp?id=201&status=Y&type=S&dist=3&basin=Mimbres Basin,Heredia
+x,Hernandez,http://meas.ose.state.nm.us/site.jsp?id=121&status=Y&type=S&dist=6&basin=Lower Chama,Hernandez
+x,Heuchling#1,http://meas.ose.state.nm.us/site.jsp?id=100&status=Y&type=S&dist=3&basin=Mimbres Basin,Heuchling#1
+x,Heuchling#2,http://meas.ose.state.nm.us/site.jsp?id=101&status=Y&type=S&dist=3&basin=Mimbres Basin,Heuchling#2
+x,Heuchling#3,http://meas.ose.state.nm.us/site.jsp?id=136&status=Y&type=S&dist=3&basin=Mimbres Basin,Heuchling#3
+x,Heuchling#4,http://meas.ose.state.nm.us/site.jsp?id=137&status=Y&type=S&dist=3&basin=Mimbres Basin,Heuchling#4
+x,HighlandPark,http://meas.ose.state.nm.us/site.jsp?id=92&status=Y&type=S&dist=5&basin=La Plata River,HighlandPark
+,HighLine,http://meas.ose.state.nm.us/site.jsp?id=22&status=Y&type=S&dist=6&basin=NPT,HighLine
+x,Hillside,http://meas.ose.state.nm.us/site.jsp?id=93&status=Y&type=S&dist=5&basin=La Plata River,Hillside
+,HolguinRiverPump,http://meas.ose.state.nm.us/site.jsp?id=243&status=Y&type=S&dist=4&basin=Lower Rio Grande Basin,HolguinRiverPump
+,Independent,http://meas.ose.state.nm.us/site.jsp?id=247&status=Y&type=S&dist=5&basin=Animas River,Independent
+,Indios,http://meas.ose.state.nm.us/site.jsp?id=23&status=Y&type=S&dist=6&basin=NPT,Indios
+x,J.P.Gonzales,http://meas.ose.state.nm.us/site.jsp?id=122&status=Y&type=S&dist=6&basin=Lower Chama,J.P.Gonzales
+,J.V.Martinez,http://meas.ose.state.nm.us/site.jsp?id=123&status=Y&type=S&dist=6&basin=Lower Chama,J.V.Martinez
+x,Jackson,http://meas.ose.state.nm.us/site.jsp?id=95&status=Y&type=S&dist=5&basin=La Plata River,Jackson
+x,JacksonDitch,http://meas.ose.state.nm.us/site.jsp?id=171&status=Y&type=S&dist=7&basin=Cimarron River,JacksonDitch
+x,JewettValley,http://meas.ose.state.nm.us/site.jsp?id=87&status=Y&type=S&dist=5&basin=San Juan River,JewettValley
+x,JoseG.Ortiz,http://meas.ose.state.nm.us/site.jsp?id=24&status=Y&type=S&dist=6&basin=NPT,JoseG.Ortiz
+x,Kello-Blancett,http://meas.ose.state.nm.us/site.jsp?id=77&status=Y&type=S&dist=5&basin=Animas River,Kello-Blancett
+x,Kenly#1,http://meas.ose.state.nm.us/site.jsp?id=102&status=Y&type=S&dist=3&basin=Mimbres Basin,Kenly#1
+x,Kenly#2,http://meas.ose.state.nm.us/site.jsp?id=103&status=Y&type=S&dist=3&basin=Mimbres Basin,Kenly#2
+x,Kimmick,http://meas.ose.state.nm.us/site.jsp?id=104&status=Y&type=S&dist=3&basin=Mimbres Basin,Kimmick
+x,King,http://meas.ose.state.nm.us/site.jsp?id=105&status=Y&type=S&dist=3&basin=Mimbres Basin,King
+,LaCienegaIrrigationDistrict,http://meas.ose.state.nm.us/site.jsp?id=230&status=Y&type=S&dist=6&basin=La Cienega Creek,LaCienegaIrrigationDistrict
+,LaCienegaSpring,http://meas.ose.state.nm.us/site.jsp?id=212&status=Y&type=S&dist=6&basin=La Cienega Creek,LaCienegaSpring
+x,LaPlataIndian,http://meas.ose.state.nm.us/site.jsp?id=94&status=Y&type=S&dist=5&basin=La Plata River,LaPlataIndian
+x,LaPuente,http://meas.ose.state.nm.us/site.jsp?id=124&status=Y&type=S&dist=6&basin=Lower Chama,LaPuente
+,Larga,http://meas.ose.state.nm.us/site.jsp?id=25&status=Y&type=S&dist=6&basin=NPT,Larga
+x,Larkin-Reynolds,http://meas.ose.state.nm.us/site.jsp?id=96&status=Y&type=S&dist=5&basin=La Plata River,Larkin-Reynolds
+,LasJoyas,http://meas.ose.state.nm.us/site.jsp?id=26&status=Y&type=S&dist=6&basin=NPT,LasJoyas
+,LasPalomasCommunityDitch,http://meas.ose.state.nm.us/site.jsp?id=239&status=Y&type=S&dist=4&basin=Hot Springs Basin,LasPalomasCommunityDitch
+,LasVegasWWTPDischarge,http://meas.ose.state.nm.us/site.jsp?id=236&status=Y&type=S&dist=6&basin=NPT,LasVegasWWTPDischarge
+x,Lefthand,http://meas.ose.state.nm.us/site.jsp?id=97&status=Y&type=S&dist=5&basin=La Plata River,Lefthand
+,Llano,http://meas.ose.state.nm.us/site.jsp?id=192&status=Y&type=S&dist=3&basin=Mimbres Basin,Llano
+,Llano,http://meas.ose.state.nm.us/site.jsp?id=27&status=Y&type=S&dist=6&basin=NPT,Llano
+x,LosOjitos,http://meas.ose.state.nm.us/site.jsp?id=32&status=Y&type=S&dist=6&basin=NPT,LosOjitos
+x,LosOrtizes,http://meas.ose.state.nm.us/site.jsp?id=34&status=Y&type=S&dist=6&basin=NPT,LosOrtizes
+x,LosRomeros,http://meas.ose.state.nm.us/site.jsp?id=55&status=Y&type=S&dist=6&basin=Gallinas,LosRomeros
+x,LosVigiles,http://meas.ose.state.nm.us/site.jsp?id=52&status=Y&type=S&dist=6&basin=Gallinas,LosVigiles
+x,LowerAnimas,http://meas.ose.state.nm.us/site.jsp?id=78&status=Y&type=S&dist=5&basin=Animas River,LowerAnimas
+,LowerAnimasRd350,http://meas.ose.state.nm.us/site.jsp?id=250&status=Y&type=S&dist=5&basin=Animas River,LowerAnimasRd350
+x,LowerConsolidated,http://meas.ose.state.nm.us/site.jsp?id=28&status=Y&type=S&dist=6&basin=NPT,LowerConsolidated
+,LowerLasAnimasCreek,http://meas.ose.state.nm.us/site.jsp?id=240&status=Y&type=S&dist=4&basin=Las Animas Creek,LowerLasAnimasCreek
+,M-BDitch,http://meas.ose.state.nm.us/site.jsp?id=215&status=Y&type=S&dist=6&basin=Upper Chama,M-BDitch
+x,Macedonio,http://meas.ose.state.nm.us/site.jsp?id=198&status=Y&type=S&dist=3&basin=Mimbres Basin,Macedonio
+,Madre,http://meas.ose.state.nm.us/site.jsp?id=29&status=Y&type=S&dist=6&basin=NPT,Madre
+x,MadredeLasVegas,http://meas.ose.state.nm.us/site.jsp?id=63&status=Y&type=S&dist=6&basin=Gallinas,MadredeLasVegas
+x,ManzanaresyMontoya,http://meas.ose.state.nm.us/site.jsp?id=229&status=Y&type=S&dist=6&basin=Lower Chama,ManzanaresyMontoya
+x,Mariano,http://meas.ose.state.nm.us/site.jsp?id=125&status=Y&type=S&dist=6&basin=Lower Chama,Mariano
+x,Martin,http://meas.ose.state.nm.us/site.jsp?id=107&status=Y&type=S&dist=3&basin=Mimbres Basin,Martin
+x,MartinezyDuranes,http://meas.ose.state.nm.us/site.jsp?id=126&status=Y&type=S&dist=6&basin=Lower Chama,MartinezyDuranes
+x,McDerrmott,http://meas.ose.state.nm.us/site.jsp?id=98&status=Y&type=S&dist=5&basin=La Plata River,McDerrmott
+,Medio,http://meas.ose.state.nm.us/site.jsp?id=30&status=Y&type=S&dist=6&basin=NPT,Medio
+x,MiamiLakeLongFlume,http://meas.ose.state.nm.us/site.jsp?id=163&status=Y&type=S&dist=7&basin=Cimarron River,MiamiLakeLongFlume
+x,MiddleChaseDitch,http://meas.ose.state.nm.us/site.jsp?id=172&status=Y&type=S&dist=7&basin=Cimarron River,MiddleChaseDitch
+x,Montoya,http://meas.ose.state.nm.us/site.jsp?id=108&status=Y&type=S&dist=3&basin=Mimbres Basin,Montoya
+x,MorenoCreek,http://meas.ose.state.nm.us/site.jsp?id=186&status=Y&type=S&dist=7&basin=Cimarron River,MorenoCreek
+,Nan,http://meas.ose.state.nm.us/site.jsp?id=109&status=Y&type=S&dist=3&basin=Mimbres Basin,Nan
+x,NewModel,http://meas.ose.state.nm.us/site.jsp?id=116&status=Y&type=S&dist=3&basin=Gila Basin,NewModel
+x,NorthFarmington-WrightLeggett,http://meas.ose.state.nm.us/site.jsp?id=79&status=Y&type=S&dist=5&basin=Animas River,NorthFarmington-WrightLeggett
+,Nueva,http://meas.ose.state.nm.us/site.jsp?id=31&status=Y&type=S&dist=6&basin=NPT,Nueva
+x,O'SullivanMcSherryPena,http://meas.ose.state.nm.us/site.jsp?id=110&status=Y&type=S&dist=3&basin=Mimbres Basin,O'SullivanMcSherryPena
+x,OldMillDitch,http://meas.ose.state.nm.us/site.jsp?id=170&status=Y&type=S&dist=7&basin=Cimarron River,OldMillDitch
+,Ortiz,http://meas.ose.state.nm.us/site.jsp?id=33&status=Y&type=S&dist=6&basin=NPT,Ortiz
+,OtraVanda,http://meas.ose.state.nm.us/site.jsp?id=45&status=Y&type=S&dist=6&basin=NPT,OtraVanda
+,Pappen,http://meas.ose.state.nm.us/site.jsp?id=224&status=Y&type=S&dist=6&basin=Gallinas,Pappen
+x,Parkview,http://meas.ose.state.nm.us/site.jsp?id=36&status=Y&type=S&dist=6&basin=Upper Chama,Parkview
+x,Parra,http://meas.ose.state.nm.us/site.jsp?id=111&status=Y&type=S&dist=3&basin=Mimbres Basin,Parra
+,PaxonRiverPump,http://meas.ose.state.nm.us/site.jsp?id=242&status=Y&type=S&dist=4&basin=Hot Springs Basin,PaxonRiverPump
+x,PDL-East,http://meas.ose.state.nm.us/site.jsp?id=149&status=Y&type=S&dist=2&basin=Fort Sumner,PDL-East
+x,PDL-West,http://meas.ose.state.nm.us/site.jsp?id=148&status=Y&type=S&dist=2&basin=Fort Sumner,PDL-West
+x,Perrault,http://meas.ose.state.nm.us/site.jsp?id=194&status=Y&type=S&dist=3&basin=Mimbres Basin,Perrault
+x,PhilmontCanal,http://meas.ose.state.nm.us/site.jsp?id=176&status=Y&type=S&dist=7&basin=Cimarron River,PhilmontCanal
+x,PhilmontCito,http://meas.ose.state.nm.us/site.jsp?id=178&status=Y&type=S&dist=7&basin=Cimarron River,PhilmontCito
+x,PhilmontWebster,http://meas.ose.state.nm.us/site.jsp?id=177&status=Y&type=S&dist=7&basin=Cimarron River,PhilmontWebster
+,PlazaBlanca,http://meas.ose.state.nm.us/site.jsp?id=219&status=Y&type=S&dist=6&basin=Upper Chama,PlazaBlanca
+x,Porvenir,http://meas.ose.state.nm.us/site.jsp?id=37&status=Y&type=S&dist=6&basin=Upper Chama,Porvenir
+x,Quintana,http://meas.ose.state.nm.us/site.jsp?id=227&status=Y&type=S&dist=6&basin=Lower Chama,Quintana
+x,RalphEdwardsPond,http://meas.ose.state.nm.us/site.jsp?id=241&status=Y&type=S&dist=4&basin=Hot Springs Basin,RalphEdwardsPond
+,Ralston,http://meas.ose.state.nm.us/site.jsp?id=80&status=Y&type=S&dist=5&basin=Animas River,Ralston
+,Ranch101Ditch,http://meas.ose.state.nm.us/site.jsp?id=210&status=Y&type=S&dist=6&basin=Upper Chama,Ranch101Ditch
+,Ranchmans-Terrell,http://meas.ose.state.nm.us/site.jsp?id=81&status=Y&type=S&dist=5&basin=Animas River,Ranchmans-Terrell
+,Rancho,http://meas.ose.state.nm.us/site.jsp?id=38&status=Y&type=S&dist=6&basin=NPT,Rancho
+,Rincon,http://meas.ose.state.nm.us/site.jsp?id=39&status=Y&type=S&dist=6&basin=NPT,Rincon
+,RiodeChama,http://meas.ose.state.nm.us/site.jsp?id=144&status=Y&type=S&dist=6&basin=Lower Chama,RiodeChama
+,RioenMedio,http://meas.ose.state.nm.us/site.jsp?id=140&status=Y&type=S&dist=6&basin=NPT,RioenMedio
+,Romeros,http://meas.ose.state.nm.us/site.jsp?id=143&status=Y&type=S&dist=6&basin=NPT,Romeros
+,RoundHouse,http://meas.ose.state.nm.us/site.jsp?id=57&status=Y&type=S&dist=6&basin=Gallinas,RoundHouse
+,S.D.C.TownofSpringer,http://meas.ose.state.nm.us/site.jsp?id=166&status=Y&type=S&dist=7&basin=Cimarron River,S.D.C.TownofSpringer
+,Salazar,http://meas.ose.state.nm.us/site.jsp?id=51&status=Y&type=S&dist=6&basin=Lower Chama,Salazar
+,SanAugustin,http://meas.ose.state.nm.us/site.jsp?id=134&status=Y&type=S&dist=6&basin=Gallinas,SanAugustin
+,SanchezyChavez,http://meas.ose.state.nm.us/site.jsp?id=218&status=Y&type=S&dist=6&basin=Upper Chama,SanchezyChavez
+,SanIldefonso,http://meas.ose.state.nm.us/site.jsp?id=41&status=Y&type=S&dist=6&basin=NPT,SanIldefonso
+,SanMiguelCommunityDitch,http://meas.ose.state.nm.us/site.jsp?id=238&status=Y&type=S&dist=4&basin=Hot Springs Basin,SanMiguelCommunityDitch
+,SantaClaraSpring,http://meas.ose.state.nm.us/site.jsp?id=184&status=Y&type=S&dist=7&basin=Santa Clara Spring,SantaClaraSpring
+,SantaFeWWTPDischarge,http://meas.ose.state.nm.us/site.jsp?id=231&status=Y&type=S&dist=6&basin=Santa Fe River,SantaFeWWTPDischarge
+,Sargent,http://meas.ose.state.nm.us/site.jsp?id=82&status=Y&type=S&dist=5&basin=Animas River,Sargent
+,SibleyWellSpill,http://meas.ose.state.nm.us/site.jsp?id=158&status=Y&type=S&dist=2&basin=Carlsbad,SibleyWellSpill
+,SixmileCreek,http://meas.ose.state.nm.us/site.jsp?id=188&status=Y&type=S&dist=7&basin=Cimarron River,SixmileCreek
+,SpringerDitchbelowSpringerLake,http://meas.ose.state.nm.us/site.jsp?id=167&status=Y&type=S&dist=7&basin=Cimarron River,SpringerDitchbelowSpringerLake
+,SpringerDitchHighline,http://meas.ose.state.nm.us/site.jsp?id=165&status=Y&type=S&dist=7&basin=Cimarron River,SpringerDitchHighline
+,Stacey,http://meas.ose.state.nm.us/site.jsp?id=83&status=Y&type=S&dist=5&basin=Animas River,Stacey
+,Storrie,http://meas.ose.state.nm.us/site.jsp?id=53&status=Y&type=S&dist=6&basin=Gallinas,Storrie
+,Sunset,http://meas.ose.state.nm.us/site.jsp?id=117&status=Y&type=S&dist=3&basin=Gila Basin,Sunset
+,Swartz,http://meas.ose.state.nm.us/site.jsp?id=112&status=Y&type=S&dist=3&basin=Mimbres Basin,Swartz
+,TACommunityDitch,http://meas.ose.state.nm.us/site.jsp?id=226&status=Y&type=S&dist=6&basin=Upper Chama,TACommunityDitch
+,Tajo,http://meas.ose.state.nm.us/site.jsp?id=193&status=Y&type=S&dist=3&basin=Mimbres Basin,Tajo
+,TaylorDrop,http://meas.ose.state.nm.us/site.jsp?id=168&status=Y&type=S&dist=7&basin=Cimarron River,TaylorDrop
+,TesuquePuebloPond,http://meas.ose.state.nm.us/site.jsp?id=131&status=Y&type=S&dist=6&basin=NPT,TesuquePuebloPond
+,TierraAzul,http://meas.ose.state.nm.us/site.jsp?id=127&status=Y&type=S&dist=6&basin=Lower Chama,TierraAzul
+,Tigner#1,http://meas.ose.state.nm.us/site.jsp?id=113&status=Y&type=S&dist=3&basin=Mimbres Basin,Tigner#1
+,Trujillos,http://meas.ose.state.nm.us/site.jsp?id=42&status=Y&type=S&dist=6&basin=NPT,Trujillos
+,Turley,http://meas.ose.state.nm.us/site.jsp?id=88&status=Y&type=S&dist=5&basin=San Juan River,Turley
+,TustinMcIntosh,http://meas.ose.state.nm.us/site.jsp?id=114&status=Y&type=S&dist=3&basin=Mimbres Basin,TustinMcIntosh
+,TwinRocks,http://meas.ose.state.nm.us/site.jsp?id=84&status=Y&type=S&dist=5&basin=Animas River,TwinRocks
+,UpperChaseDitch,http://meas.ose.state.nm.us/site.jsp?id=173&status=Y&type=S&dist=7&basin=Cimarron River,UpperChaseDitch
+,UpperConsolidated,http://meas.ose.state.nm.us/site.jsp?id=43&status=Y&type=S&dist=6&basin=NPT,UpperConsolidated
+,ValentineMartinez,http://meas.ose.state.nm.us/site.jsp?id=228&status=Y&type=S&dist=6&basin=Lower Chama,ValentineMartinez
+,ValleyDitch,http://meas.ose.state.nm.us/site.jsp?id=209&status=Y&type=S&dist=6&basin=Upper Chama,ValleyDitch
+,VicenteOrtiz,http://meas.ose.state.nm.us/site.jsp?id=130&status=Y&type=S&dist=6&basin=NPT,VicenteOrtiz
+,WandaRhodes,http://meas.ose.state.nm.us/site.jsp?id=156&status=Y&type=S&dist=2&basin=Roswell,WandaRhodes
+,WardwellHerron,http://meas.ose.state.nm.us/site.jsp?id=115&status=Y&type=S&dist=3&basin=Mimbres Basin,WardwellHerron
+,WestChaperito,http://meas.ose.state.nm.us/site.jsp?id=135&status=Y&type=S&dist=6&basin=Gallinas,WestChaperito
+,Willett,http://meas.ose.state.nm.us/site.jsp?id=85&status=Y&type=S&dist=5&basin=Animas River,Willett
+,WillowCreekMesaDitch,http://meas.ose.state.nm.us/site.jsp?id=147&status=Y&type=S&dist=6&basin=Upper Chama,WillowCreekMesaDitch
+,WSFrenchLake,http://meas.ose.state.nm.us/site.jsp?id=175&status=Y&type=S&dist=7&basin=Cimarron River,WSFrenchLake
+,Yungeh,http://meas.ose.state.nm.us/site.jsp?id=251&status=Y&type=S&dist=6&basin=Lower Chama,Yungeh
